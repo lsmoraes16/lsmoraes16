@@ -7,11 +7,12 @@
 
 ## About me
 
-Coloque aqui algo sobre você :)
+Olá, me chamo Lucas.
+Atualmente estudo programação focado no backend.
 
 ### Goals
 
-Coloque suas metas <3
+Meu atual objetivo é aprender o máximo possível sobre programação e poder aplicar no meu cotidiano e trabalho, automatizar tarefas, e ajudar as pessoas ao meu redor com o que eu puder acrescentar.
 
 ## Statistics
 
